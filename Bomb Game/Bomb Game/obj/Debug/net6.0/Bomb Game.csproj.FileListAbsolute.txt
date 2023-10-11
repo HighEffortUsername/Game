@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Bomb Game\Bomb Game\bin\Debug\net6.0\Bomb Game.exe
+H:\Visual Studio 2022\Bomb Game\Bomb Game\bin\Debug\net6.0\Bomb Game.deps.json
+H:\Visual Studio 2022\Bomb Game\Bomb Game\bin\Debug\net6.0\Bomb Game.runtimeconfig.json
+H:\Visual Studio 2022\Bomb Game\Bomb Game\bin\Debug\net6.0\Bomb Game.dll
+H:\Visual Studio 2022\Bomb Game\Bomb Game\bin\Debug\net6.0\Bomb Game.pdb
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.AssemblyInfo.cs
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.dll
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\refint\Bomb Game.dll
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.pdb
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\Bomb Game.genruntimeconfig.cache
+H:\Visual Studio 2022\Bomb Game\Bomb Game\obj\Debug\net6.0\ref\Bomb Game.dll
